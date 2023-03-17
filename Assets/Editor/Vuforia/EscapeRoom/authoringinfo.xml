@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_info.xsd">
+    <TargetSet version="3.4">
+        <AreaTarget version="5.0" bbox="-3.9696 -1.2702 -2.7144 0.9940 1.6016 2.2198" targetId="0e497e09947b45f1a45acd34a2a8f039" name="EscapeRoom" pathAuthoring="0e497e09947b45f1a45acd34a2a8f039_authoring.glb" pathOcclusion="0e497e09947b45f1a45acd34a2a8f039_occlusion.3dt" pathNavMesh="0e497e09947b45f1a45acd34a2a8f039_navmesh.glb" />
+    </TargetSet>
+</QCARInfo>
